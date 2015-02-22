@@ -1,0 +1,59 @@
+---
+title       : Fabulous Parabolas!
+subtitle    : A New Horizon In Mathematical Automation
+author      : Arjay314
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## What is "Fabulous Parabolas!" ?
+
+Fabulous Parabolas! is a Shiny application that makes it easy for anyone to draw parabolas. Here's an example:
+
+![plot of chunk demo](assets/fig/demo-1.png) 
+
+--- .class #id 
+
+## Some frequently asked questions about Fabulous Parabolas! 
+
+- Do I need any mathematical ability to use this app?   
+  - No! No knowledge of mathematics is required.
+
+- Do I need to type?   
+  - No! Once the app is started, everything is mouse driven.
+
+- Is there any documentation?
+  - Yes! It's written right into the control panel.
+  
+- Do I have to read the documentation?   
+  - No! The interface is really simple.
+
+--- .class #id 
+
+## Results are guaranteed.
+
+Our team of dedicated testers has found this product to be so stable that even a random choice of parameters will generate a good graph.
+
+![Our Testing Team](Public-Domain-Monkey.png)
+
+--- .class #id 
+
+## Don't delay. Try Fabulous Parabolas! today.
+
+## It's fabulous!
+<br />
+
+Copyright (C) 2015 Arjay314 Global Enterprises, all primates reserved
+
+No monkeys or typewriters were harmed during the development of this product.
+
+
+
+
+
+
